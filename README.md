@@ -16,3 +16,5 @@ If for some other reason the project or tests aren't able to be executed, pictur
 ------------------------------------------------------------------
 
 P.S. Due to time constraints, I did not implement ```DiscountContext``` class tests; if I'll be invited to the technical interview, I could gladly show them.
+
+P.P.S Task was done using MacOS and Jetbrains Rider
