@@ -1,0 +1,15 @@
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/bin/Debug/net8.0/vinted-hw-assignment
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/bin/Debug/net8.0/vinted-hw-assignment.deps.json
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/bin/Debug/net8.0/vinted-hw-assignment.runtimeconfig.json
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/bin/Debug/net8.0/vinted-hw-assignment.dll
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/bin/Debug/net8.0/vinted-hw-assignment.pdb
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/obj/Debug/net8.0/vinted-hw-assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/obj/Debug/net8.0/vinted-hw-assignment.AssemblyInfoInputs.cache
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/obj/Debug/net8.0/vinted-hw-assignment.AssemblyInfo.cs
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/obj/Debug/net8.0/vinted-hw-assignment.csproj.CoreCompileInputs.cache
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/obj/Debug/net8.0/vinted-hw-assignment.sourcelink.json
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/obj/Debug/net8.0/vinted-hw-assignment.dll
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/obj/Debug/net8.0/refint/vinted-hw-assignment.dll
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/obj/Debug/net8.0/vinted-hw-assignment.pdb
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/obj/Debug/net8.0/vinted-hw-assignment.genruntimeconfig.cache
+/Users/kostaspaplauskas/Desktop/vinted-hw-assignment/vinted-hw-assignment/obj/Debug/net8.0/ref/vinted-hw-assignment.dll
